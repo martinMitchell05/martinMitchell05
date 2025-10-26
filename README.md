@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Martin</h1>
+<h1 align="center">Hi 👋, I'm Martin;</h1>
 <h3 align="center">Always trying to improve my skills and knowledge ;)</h3>
 
-- 🔭 I’m currently studying at **Universidad Nacional del Litoral**
+- 🔭 I’m currently studying at **Universidad Nacional del Litoral;**
 
-- 🌱 I’m currently learning **DataBase Management, API's programming, Clean-Code, Computer Organisation, Computer Graphics**
+- 🌱 I’m currently learning **DataBase Management, API's programming, Cybersecurity Fundamentals, Clean-Code, Computer Organisation, Computer Graphics;**
 
 - 📫 How to reach me **martinmitchellmartin95@gmail.com**
 
